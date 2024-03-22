@@ -3,7 +3,7 @@ package javabasics;
 public class Palimdrome {
 
 	public static void main(String[] args) {
-		int num = 4154, r, sum = 0,temp;
+		int num = 515, r, sum = 0,temp;
 		temp = num;
 		while (num > 0) {
 			r = num % 10;
